@@ -4,12 +4,12 @@ nama  = "Eren Jeager"
 print(nama)
 
 #nilai  dan  tipe data dalam variabel	dapat diubah
-umur  = 19						#nilai  awal
-print(umur)						#mencetak nilai umur
-type(umur)						#mengecek  tipe  data  umur
-umur  = "dua puluh" 			#nilai  setelah  diubah
-print(umur)						#mencetak nilai umur
-type(umur)						#mengecek  tipe  data  umur
+umur  = 19#nilai  awal
+print(umur)             #mencetak nilai umur
+type(umur)              #mengecek  tipe  data  umur
+umur  = "dua puluh"     #nilai  setelah  diubah
+print(umur)             #mencetak nilai umur
+type(umur)              #mengecek  tipe  data  umur
 
 namaDepan = "Joko"
 namaBelakang = "Susilo"
