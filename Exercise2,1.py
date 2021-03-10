@@ -12,11 +12,7 @@ print(20)
 print(3.14)
 
 #Tipe data Hexadecimal
-x = hex(90)
-print(x)
-print(type(x))
+print(9)
 
 #Tipe data Complex
-x = (5j)
-print(x)
-print(type(x))
+print(5j)
